@@ -1,0 +1,14 @@
+{
+  "id": "tutanota",
+  "name": "Tutanota",
+  "version": "1.0.0",
+  "description": "Tutanota",
+  "main": "index.js",
+  "author": "Hicham El Kaddioui <hicham.elkaddioui@tutanota.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.tutanota.com/",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
+}
