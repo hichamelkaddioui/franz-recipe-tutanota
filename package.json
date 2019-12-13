@@ -5,6 +5,10 @@
   "description": "Tutanota",
   "main": "index.js",
   "author": "Hicham El Kaddioui <hicham.elkaddioui@tutanota.com>",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/hichamelkaddioui/franz-recipe-tutanota.git"
+  },
   "license": "MIT",
   "config": {
     "serviceURL": "https://mail.tutanota.com/",
